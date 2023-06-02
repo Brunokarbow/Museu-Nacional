@@ -13,4 +13,4 @@
 Para vizualizar a página clique aqui> <a href="https://brunokarbow.github.io/Museu-Nacional/">Vizualizar a página<a/>
   <h3>✔ Preview da Página </h3>
     
-    ![Screenshot_1](https://github.com/Brunokarbow/Museu-Nacional/assets/96805693/d503476d-3f79-4c19-b9ca-0000c0bbe041)
+ ![Screenshot_1](https://github.com/Brunokarbow/Museu-Nacional/assets/96805693/d503476d-3f79-4c19-b9ca-0000c0bbe041)
