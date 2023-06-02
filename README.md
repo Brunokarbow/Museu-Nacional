@@ -3,7 +3,7 @@
 <p> Olá pessoas! estou aqui novamente para compartilhar com vocês mais um dos meus projetos desenvolvidos na <a href="https://www.udemy.com/course/web-completo/">Udemy </a> achei que o projeto ficou bem legal e dinâmico e gostaria de compartilhar com vocês!
 
   
-  <h3>✔Tecnologias Utilizadas.</h3>
+  <h3>🚀Tecnologias Utilizadas.</h3>
   <p> ◻ HTML5
   <p> ◻ HTML5 SHIV
   <p> ◻ CSS
